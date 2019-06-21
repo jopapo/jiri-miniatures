@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM", "JM\JM.csproj", "{AACD9250-E096-429A-9DA2-8D019E089603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM.Tests", "JM.Tests\JM.Tests.csproj", "{D393AC75-61EE-44C5-BB40-A70AC9D1D2DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM.Benchmarks", "JM.Benchmarks\JM.Benchmarks.csproj", "{AF3DC4F7-BA64-4D01-88CA-160FE07B6582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AACD9250-E096-429A-9DA2-8D019E089603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACD9250-E096-429A-9DA2-8D019E089603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACD9250-E096-429A-9DA2-8D019E089603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACD9250-E096-429A-9DA2-8D019E089603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D393AC75-61EE-44C5-BB40-A70AC9D1D2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D393AC75-61EE-44C5-BB40-A70AC9D1D2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D393AC75-61EE-44C5-BB40-A70AC9D1D2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D393AC75-61EE-44C5-BB40-A70AC9D1D2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3DC4F7-BA64-4D01-88CA-160FE07B6582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3DC4F7-BA64-4D01-88CA-160FE07B6582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3DC4F7-BA64-4D01-88CA-160FE07B6582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3DC4F7-BA64-4D01-88CA-160FE07B6582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2390AE0F-F46E-4811-9792-8A524844EB55}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>JM</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Miniatures\M02\" />
+  </ItemGroup>
+
+</Project>
