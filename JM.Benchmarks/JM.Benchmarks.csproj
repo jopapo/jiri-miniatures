@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\jiri-miniatures\JM.csproj" />
+    <ProjectReference Include="..\JM\JM.csproj" />
   </ItemGroup>
 
 </Project>

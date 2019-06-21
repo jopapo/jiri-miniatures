@@ -1,4 +1,5 @@
 using JM.Miniatures.M01;
+using JM.Miniatures.M01.Other;
 using System.Collections.Generic;
 using Xunit;
 
