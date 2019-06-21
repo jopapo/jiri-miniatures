@@ -10,7 +10,7 @@ namespace JM.Benchmarks
     {
 
 
-        [Params(0, 10, 20, 30)]
+        [Params(0, 5, 10, 15, 20)]
         public uint n;
 
         private readonly IFibonacci recursive = new FibonacciNumbersRecursive();
